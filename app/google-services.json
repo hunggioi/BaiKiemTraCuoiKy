@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638346865494",
+    "firebase_url": "https://kiemtracuoiky-549bd.firebaseio.com",
+    "project_id": "kiemtracuoiky-549bd",
+    "storage_bucket": "kiemtracuoiky-549bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638346865494:android:c7c5b3ac2bebb6d5a504f7",
+        "android_client_info": {
+          "package_name": "com.example.kiemtracuoiky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638346865494-cpuqe7a7m01itihft06h5di82pmhp6em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiemtracuoiky",
+            "certificate_hash": "b49ef1d2097d0d8669744daedb1ebfe8a81113b2"
+          }
+        },
+        {
+          "client_id": "638346865494-uoscd2n05f5o7ej8ji94fr7p3pbjq32m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQpjaN6sohZHP6f91MYZUxMpV0fsGmjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638346865494-uoscd2n05f5o7ej8ji94fr7p3pbjq32m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
